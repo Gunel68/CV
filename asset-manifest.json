@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gunel68.github.io/my-app/static/css/main.4c40369c.css",
+    "main.js": "/Gunel68.github.io/my-app/static/js/main.9f0a51c0.js",
+    "index.html": "/Gunel68.github.io/my-app/index.html",
+    "main.4c40369c.css.map": "/Gunel68.github.io/my-app/static/css/main.4c40369c.css.map",
+    "main.9f0a51c0.js.map": "/Gunel68.github.io/my-app/static/js/main.9f0a51c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c40369c.css",
+    "static/js/main.9f0a51c0.js"
+  ]
+}
